@@ -1,6 +1,6 @@
 /*Herophoto section*/
 .hero-section {
-    background-image: url(/website/images/herophoto-whole-gradiant.png);
+    background-image: url(/assets/img/herophoto-whole-gradiant.png);
     background-size: cover;
     background-origin: content-box;
     padding-top: 5rem;
@@ -93,7 +93,7 @@
 }
 
 .course-1 {
-    background-image: url(/website/images/Aipe-kuva.png);
+    background-image: url(/assets/img/Aipe-kuva.png);
     background-size: cover;
     padding-left: 20px;
     padding-right: 20px;
@@ -103,7 +103,7 @@
 }
 
 .course-2 {
-    background-image: url(/website/images/Nivelvaihe-kuva.png);
+    background-image: url(/assets/img/Nivelvaihe-kuva.png);
     background-size: cover;
     padding-left: 20px;
     padding-right: 20px;
@@ -113,7 +113,7 @@
 }
 
 .course-3 {
-    background-image: url(/website/images/koto-kuva.png);
+    background-image: url(/assets/img/koto-kuva.png);
     background-size: cover;
     padding-left: 20px;
     padding-right: 20px;
@@ -123,7 +123,7 @@
 }
 
 .course-4 {
-    background-image: url(/website/images/kaso-kuva.png);
+    background-image: url(/assets/img/kaso-kuva.png);
     background-size: cover;
     padding-left: 20px;
     padding-right: 20px;
@@ -133,7 +133,7 @@
 }
 
 .course-5 {
-    background-image: url(/website/images/kuvataide-kuva.png);
+    background-image: url(/assets/img/kuvataide-kuva.png);
     background-size: cover;
     padding-left: 20px;
     padding-right: 20px;
