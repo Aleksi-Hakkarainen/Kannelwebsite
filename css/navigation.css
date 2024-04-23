@@ -7,7 +7,7 @@
 }
 
 .toggle {
-    position: fixed;
+    position: static;
     top: 40px;
     right: 40px;
     width: 50px;
@@ -30,7 +30,7 @@
 }
 
 .navigation {
-    position: fixed;
+    position: static;
     top: 0;
     left: 0;
     width: 100%;
