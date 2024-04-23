@@ -1,17 +1,11 @@
 @media only screen and (max-width: 800px) {
-    .mobile-content {
-        visibility: visible;
-    }
     .desktop-content {
-        visibility: hidden;
+        display: none;
     }
 }
 
 @media only screen and (min-width: 800px) {
     .mobile-content {
-        visibility: hidden;
-    }
-    .desktop-content {
-        visibility: visible;
+        display: none;
     }
 }
