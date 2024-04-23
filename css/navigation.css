@@ -93,3 +93,10 @@
         color: white;
     }
 }
+
+.header-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 40;
+}
