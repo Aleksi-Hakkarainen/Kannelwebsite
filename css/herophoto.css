@@ -20,13 +20,16 @@
 
     h3 {
         font-size: 40vh;
+        color: white;
     }
 
     p {
         font-size: 30vh;
+        color: white;
     }
 
     button {
         font-size: 30vh;
+        color: white;
     }
 }
