@@ -26,42 +26,32 @@
 
     <!--Header section. Contains Logo and header-->
     <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm">
-
-                </div>
-                <div class="col-sm logo-location">
-                    <img src="./img/logo.svg" width="150px" height="auto">
-                </div>
-                <div class="col-sm navigationbar-location">
-                    <!--Curtain nav toggle-->
-                    <div class="toggle"></div>
-                    <section class="navigation">
-                        <span style="--i:0;"></span>
-                        <span style="--i:1;"></span>
-                        <span style="--i:2;"></span>
-                        <span style="--i:3;"></span>
+        <div class="col-sm navigationbar-location">
+            <!--Curtain nav toggle-->
+            <div class="toggle"></div>
+            <section class="navigation">
+                <span style="--i:0;"></span>
+                <span style="--i:1;"></span>
+                <span style="--i:2;"></span>
+                <span style="--i:3;"></span>
                         
-                        <!--Navigation items !!Add subnav later!!-->
-                        <ul>
-                            <li><a href="#">Item 1</a></li>
-                            <li><a href="#">Item 2</a></li>
-                            <li><a href="#">Item 3</a></li>
-                            <li><a href="#">Item 4</a></li>
-                        </ul>
-                    </section>
+                <!--Navigation items !!Add subnav later!!-->
+                <ul>
+                    <li><a href="#">Item 1</a></li>
+                    <li><a href="#">Item 2</a></li>
+                    <li><a href="#">Item 3</a></li>
+                    <li><a href="#">Item 4</a></li>
+                </ul>
+            </section>
     
-                    <!--Curtain nav .js script-->
-                    <script>
-                        const navigation = document.querySelector('.navigation');
-                        document.querySelector('.toggle').onclick = function(){
-                            this.classList.toggle('active');
-                            navigation.classList.toggle('active');
-                        }
-                    </script>
-                </div>
-            </div>
+            <!--Curtain nav .js script-->
+            <script>
+                const navigation = document.querySelector('.navigation');
+                document.querySelector('.toggle').onclick = function(){
+                    this.classList.toggle('active');
+                    navigation.classList.toggle('active');
+                }
+            </script>
         </div>
     </header>
 
