@@ -1,0 +1,17 @@
+.herophoto-section {
+    background-image: url("../img/kuvataidebanner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero-text-title {
+    font-size: 10vh;
+}
+
+.hero-text-subtext {
+    font-size: 10vh;   
+}
+
+.hero-text-button {
+    font-size: 10vh;
+}
