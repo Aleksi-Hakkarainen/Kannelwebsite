@@ -74,7 +74,7 @@
     transform: translateX(-100px);
     opacity: 0;
     visibility: hidden;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .navigation.active ul {
