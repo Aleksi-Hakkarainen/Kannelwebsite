@@ -1,0 +1,14 @@
+.herophoto-section {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+    width: 100%;
+    height: 15rem;
+    
+    padding-bottom: 1rem;
+    
+    background-image: url("../img/kuvataidebanner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
