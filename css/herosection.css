@@ -1,0 +1,9 @@
+.hero-section {
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    background-image: url("../img/kuvataidebanner.png");
+}

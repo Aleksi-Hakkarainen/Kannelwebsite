@@ -20,10 +20,3 @@ section h2 {
     color: #00AB2B;
     font-size: 8vw;   
 }
-
-.logo-location a {
-    img {
-        width: 1rem;
-        height: auto;
-    }
-}
