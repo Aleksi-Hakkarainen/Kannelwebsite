@@ -21,7 +21,9 @@ section h2 {
     font-size: 8vw;   
 }
 
-.logo-location img {
-    width: 1rem;
-    height: auto;
+.logo-location a {
+    img {
+        width: 1rem;
+        height: auto;
+    }
 }
