@@ -22,7 +22,7 @@
 }
 
 .toggle.active {
-    background: #00AB2B url("../img/close.png");
+    background: url("../img/close.png");
     background-size: 25px;
     background-repeat: no-repeat;
     background-position-x: center;
