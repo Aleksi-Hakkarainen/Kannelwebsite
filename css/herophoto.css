@@ -15,4 +15,18 @@
 
 .hero-content {
     padding-left: 20px;
+
+    color: white;
+
+    h3 {
+        font-size: 40vh;
+    }
+
+    p {
+        font-size: 30vh;
+    }
+
+    button {
+        font-size: 30vh;
+    }
 }
