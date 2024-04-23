@@ -12,3 +12,7 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.hero-content {
+    padding-left: 20px;
+}
