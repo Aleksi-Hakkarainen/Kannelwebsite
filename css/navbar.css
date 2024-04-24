@@ -1,5 +1,6 @@
 .navbar {
-    padding: 20px;
+	margin:20px !important;
+	padding: 0px !important;
 }
 
 .navbar-nav > li{
